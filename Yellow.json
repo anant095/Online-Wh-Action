@@ -1,4 +1,5 @@
 {
-    "feature_enabled": false,
-    "feature_text": "The feature is safe to use."
+  "feature_enabled": true,
+  "feature_text": "made by HackingAndroidYTT",
+  "telegram_url": "https://t.me/HackingAndroidYTT"
 }
