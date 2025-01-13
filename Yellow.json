@@ -1,5 +1,5 @@
 {
   "feature_enabled": false,
-  "text": "Enable Yellow Body",  // You can change this text in runtime
+  "text": "Enable Yellow Body test",  // You can change this text in runtime
   "telegram_url": "https://t.me/HackingAndroidYTT"
 }
