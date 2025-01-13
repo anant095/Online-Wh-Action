@@ -1,4 +1,4 @@
 {
-  "feature_enabled": false,
+  "feature_enabled": true,
   "telegram_url": "https://t.me/YourTelegramChannel"
 }
