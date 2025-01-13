@@ -1,4 +1,4 @@
 {
-  "feature_enabled": false,
-  "telegram_url": "https://t.me/HackingAndroidYTT"
+  "feature_enabled": true,
+  "dynamic_text": "Enable Yellow Body"
 }
