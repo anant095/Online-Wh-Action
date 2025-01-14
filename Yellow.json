@@ -1,5 +1,5 @@
 {
-  "WallHack_Enabled": true,
-  "ShadowTrackerExtra": "Yellow Body Enabled",
-  "aysensksooe": "https://t.me/YourTelegramChannel"
+  "feature_enabled": true,
+  "feature_text": "Yellow Body Enabled",
+  "telegram_url": "https://t.me/YourTelegramChannel"
 }
