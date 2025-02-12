@@ -1,4 +1,4 @@
 {
-    "WH": true,   // Wallhack: true to enable, false to disable
-    "CHAMS": false // Chams: true to enable, false to disable (optional)
+    "WH": true,
+    "bannerText": "This is a floating banner text!"
 }
