@@ -1,4 +1,5 @@
 {
     "WH": true,
-    "bannerText": "helloooo!"
+    "bannerText": "New Important Message!",
+    "showBanner": true
 }
