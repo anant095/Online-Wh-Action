@@ -1,4 +1,4 @@
 {
-  "WH": false,
-  "CHAMS": false
+    "WH": false,   // Wallhack: true to enable, false to disable
+    "CHAMS": false // Chams: true to enable, false to disable (optional)
 }
