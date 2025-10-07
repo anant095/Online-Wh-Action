@@ -1,0 +1,6 @@
+{
+  "latest_version": "4.0",
+  "update_url": "https://github.com/username/app/releases/latest",
+  "force_update": true,
+  "message": "New version available! You must update to continue using the app."
+}
